@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ee7de86cad5929c636a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HeaderOnlyDate",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HeaderOnlyDate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HeaderOnlyDate-Debug-da87949773be48858b56.json",
+					"name" : "HeaderOnlyDate",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/sdbar/OneDrive/Documentos/workspace/Qtcreator/HeaderOnlyDate/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug",
+		"source" : "C:/Users/sdbar/OneDrive/Documentos/workspace/Qtcreator/HeaderOnlyDate"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
